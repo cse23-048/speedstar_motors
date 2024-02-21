@@ -1,2 +1,2 @@
-# speedstar_motors
+# speedstar-motors
 My First Repository WMD Tutorials
